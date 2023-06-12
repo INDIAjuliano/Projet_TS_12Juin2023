@@ -43,8 +43,8 @@ text-decoration: none;
 }
 /* ============= Etiquette ================ */
 /* ===========button============== */
-/* .div1, */
-.div2,
+.div1,
+/* .div2, */
 .div3 {
   display: none;
   transition: all 0.3s ease-in-out;
